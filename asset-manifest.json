@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https,://luismpc93.github.io/PortEv/static/css/main.073c9b0a.css",
-    "main.js": "/https,://luismpc93.github.io/PortEv/static/js/main.09469f0b.js",
-    "static/js/787.c83d3241.chunk.js": "/https,://luismpc93.github.io/PortEv/static/js/787.c83d3241.chunk.js",
-    "static/media/logo.svg": "/https,://luismpc93.github.io/PortEv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/https,://luismpc93.github.io/PortEv/index.html",
-    "main.073c9b0a.css.map": "/https,://luismpc93.github.io/PortEv/static/css/main.073c9b0a.css.map",
-    "main.09469f0b.js.map": "/https,://luismpc93.github.io/PortEv/static/js/main.09469f0b.js.map",
-    "787.c83d3241.chunk.js.map": "/https,://luismpc93.github.io/PortEv/static/js/787.c83d3241.chunk.js.map"
+    "main.css": "/PortEv/static/css/main.073c9b0a.css",
+    "main.js": "/PortEv/static/js/main.0b46ec38.js",
+    "static/js/787.c83d3241.chunk.js": "/PortEv/static/js/787.c83d3241.chunk.js",
+    "static/media/logo.svg": "/PortEv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PortEv/index.html",
+    "main.073c9b0a.css.map": "/PortEv/static/css/main.073c9b0a.css.map",
+    "main.0b46ec38.js.map": "/PortEv/static/js/main.0b46ec38.js.map",
+    "787.c83d3241.chunk.js.map": "/PortEv/static/js/787.c83d3241.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.09469f0b.js"
+    "static/js/main.0b46ec38.js"
   ]
 }
